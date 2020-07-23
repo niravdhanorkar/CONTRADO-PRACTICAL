@@ -1,0 +1,9 @@
+.width-20 {
+  width: 20px;
+}
+.active {
+  background-color: antiquewhite;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
